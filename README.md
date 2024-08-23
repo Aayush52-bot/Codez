@@ -38,6 +38,6 @@ This is a simple and responsive login page built using HTML, CSS, and JavaScript
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/login-page.git
+   https://github.com/Aayush52-bot/Codez
 
 
